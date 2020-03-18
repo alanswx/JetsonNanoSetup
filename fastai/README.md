@@ -9,7 +9,7 @@ https://forums.fast.ai/t/share-your-work-here/27676/1274
 ``
 * Install the missing packages:
 ``
-	./fastai_jetson.sh
+	sudo ./fastai_jetson.sh
 ``
 
 * Install the fastai class material:
